@@ -12,7 +12,7 @@
 <ul>
   <li><a href="https://www.php.net/">PHP ^7.0</a></li>
   <li><a href="https://www.javascript.com/">JavaScript</a></li>
-  <li><a href="https://api.jquery.com/jquery.ajax/">Ajax</a></li>
+  <li><a href="https://api.jquery.com/jquery.ajax/">Jquery</a></li>
   <li><a href="https://www.mysql.com/">MYSql</a></li>
 </ul>
 <h6>Enjoy To learn More Be smart</h6>
